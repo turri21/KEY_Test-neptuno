@@ -4,7 +4,7 @@
 // When the button is detected to be pressed, the LED light turns off.
 //===========================================================================
 `timescale 1ns / 1ps
-module neptuno_top  (
+module nepturri_top  (
 	clk,    // Input clock on development board: 50Mhz
 	rst_n,  // Enter the reset button on the development board
 	key_in, // Input key signal(KEY1~KEY2)
