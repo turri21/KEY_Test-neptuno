@@ -1,7 +1,7 @@
 //===========================================================================
 // KEY_Test
 // Description: Detect the 2 buttons KEY1~KEY2 on the development board. 
-// When the button is detected to be pressed, the LED light turns off.
+// When the button is detected to be pressed, the LED light turns on/off.
 //===========================================================================
 `timescale 1ns / 1ps
 module nepturri_top  (
