@@ -3,4 +3,4 @@
 
 Based on QMTECH's examples.
 
-It's simply a push button ON/OFF LED program.
+It's simply an ON/OFF LED switch by pushing any of the two user buttons on the board.
