@@ -3,7 +3,9 @@
 // Description: Detect the 2 buttons KEY1~KEY2 on the development board. 
 // When the button is detected to be pressed, the LED light turns on/off.
 //===========================================================================
+`default_nettype none
 `timescale 1ns / 1ps
+
 module nepturri_top  (
 	clk,    // Input clock on development board: 50Mhz
 	rst_n,  // Enter the reset button on the development board
